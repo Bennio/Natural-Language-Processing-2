@@ -1,4 +1,4 @@
-python "Moonlight_book_nltk_scraping.py.py"
+python "regex.py"
 
 pause
 del "%0"
